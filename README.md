@@ -1,1 +1,1 @@
-# hcm_wiki
+# instructions
